@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hardik.sodhani@gmail.com**
 
-- 📄 Know about my experiences [https://hardiksodhani.tk/](hardiksodhani.tk)
+- 📄 Know about my experiences [hardiksodhani.tk](https://hardiksodhani.tk/)
 
 - ⚡ Fun fact **I think i am funny xD.**
 
