@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hardik Sodhani</h1>
+<h1 align="center">Hi 👋, I'm Hardik</h1>
 <h3 align="center">Here to see, learn and do something outside the box.</h3>
 
 - 🔭 I’m currently working on **Air Index Measuring Drone**
