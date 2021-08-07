@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hardik</h1>
-<h3 align="center">Here to Watch, learn and do something outside the box.</h3>
+<h3 align="center">Here to Watch, learn and create something outside the box.</h3>
 
 - 🔭 I’m currently working on **Air Index Measuring Drone**
 
