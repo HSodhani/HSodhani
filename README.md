@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **R, Tableau**
 
-- 👯 I’m looking to collaborate on **Data analysis**
+- 👯 I’m looking to collaborate on **Data analysis, Project Management**
 
-- 💬 Ask me about **Python, HTML, CSS**
+- 💬 Ask me about **Python, HTML, CSS, PHP, AWS, GCS**
 
 - 📫 How to reach me **hardik.sodhani@gmail.com**
 
