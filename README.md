@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [hardiksodhani.tk](https://hardiksodhani.tk/)
 
-- ⚡ Fun fact **I think i am funny xD.**
+- ⚡ Fun fact **I am also an E-Sports Athlete.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
