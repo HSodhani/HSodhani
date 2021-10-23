@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Air Index Measuring Drone**
 
-- 🌱 I’m currently learning **Tableau, Figma**
+- 🌱 I’m currently learning **Tableau**
 
 - 👯 I’m looking to collaborate on **Data analysis, Project Management**
 
-- 💬 Ask me about **Python, HTML, CSS, PHP, AWS, GCS, R**
+- 💬 Ask me about **Python, C, HTML, CSS, PHP, AWS, GCS, R, Figma**
 
 - 📫 How to reach me **hardik.sodhani@gmail.com**
 
