@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Hardik</h1>
 <h3 align="center">Here to Watch, learn and create something outside the box.</h3>
 
-- 🔭 I’m currently working on **Air Index Measuring Drone**
+- 🔭 I’m currently working on **Azure Databases.**
 
-- 🌱 I’m currently learning **Tableau**
+- 🌱 I’m currently learning **Data Warehousing.**
 
-- 👯 I’m looking to collaborate on **Data analysis, Project Management**
+- 👯 I’m looking to collaborate on **Data analysis, Project Management.**
 
 - 💬 Ask me about **Python, C, HTML, CSS, PHP, AWS, GCS, R, Figma**
 
-- 📫 How to reach me **hardik.sodhani@gmail.com**
+- 📫 How to reach me **sodhani.h@northeastern.edu**
 
-- 📄 Know about my experiences [hardiksodhani.tk](https://hardiksodhani.tk/)
+- 📄 Know about my experiences [linkedin]([https://www.linkedin.com/in/hardiksodhani/])
 
-- ⚡ Fun fact **I am also an E-Sports Athlete.**
+- ⚡ Fun fact **I am also an E-Sports Athlete for Northeastern University.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
