@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sodhani.h@northeastern.edu**
 
-- 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/hardiksodhani/)
+- 📄 Know about my experiences on [Linkedin](https://www.linkedin.com/in/hardiksodhani/)
 
 - ⚡ Fun fact **I am also an E-Sports Athlete for Northeastern University.**
 
