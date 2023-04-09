@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Azure Databases, Cassandra, Arangodb, Cosmosdb.**
 
-- 🌱 I’m currently learning **Data Warehousing.**
+- 🌱 I’m currently learning **ML for big data Analysis.**
 
 - 👯 I’m looking to collaborate on **Data analysis, Project Management.**
 
