@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hardik</h1>
 <h3 align="center">Here to Watch, learn and create something outside the box.</h3>
 
-- 🔭 I’m currently working on **Azure Databases.**
+- 🔭 I’m currently working on **Azure Databases, Cassandra, Arangodb, Cosmosdb.**
 
 - 🌱 I’m currently learning **Data Warehousing.**
 
