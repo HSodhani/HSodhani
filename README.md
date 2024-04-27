@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hardik</h1>
 <h3 align="center">Here to Watch, learn and create something outside the box.</h3>
 
-- 🔭 I’m currently working on **Generative AI, Prompt Engineering, High Performance Parallel Machine Learning (Multi CPU & GPU).**
+- 🔭 I’m currently working on **Generative AI, Prompt Engineering, High Performance Parallel Machine Learning on OOD cluster.**
 
 - 🌱 I’m currently learning **ML for big data Analysis.**
 
