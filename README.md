@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hardik</h1>
 <h3 align="center">Here to Watch, learn and create something outside the box.</h3>
 
-- 🔭 I’m currently working on **Azure Databases, Cassandra, Arangodb, Cosmosdb.**
+- 🔭 I’m currently working on **Generative AI, Prompt Engineering, High Performance Parallel Machine Learning (Multi CPU & GPU).**
 
 - 🌱 I’m currently learning **ML for big data Analysis.**
 
 - 👯 I’m looking to collaborate on **Data analysis, Project Management.**
 
-- 💬 Ask me about **Python, C, HTML, CSS, PHP, AWS, GCS, R, Figma**
+- 💬 Ask me about **Python, Generative AI, Prompt Engineering , AWS, GCS**
 
 - 📫 How to reach me **sodhani.h@northeastern.edu**
 
