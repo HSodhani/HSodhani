@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, Generative AI, Prompt Engineering , AWS, GCS**
 
-- 📫 How to reach me **sodhani.h@northeastern.edu**
+- 📫 How to reach me? **sodhani.h@northeastern.edu**
 
 - 📄 Know about my experiences on [Linkedin](https://www.linkedin.com/in/hardiksodhani/)
 
