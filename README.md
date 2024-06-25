@@ -33,7 +33,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hsodhani&" alt="hsodhani" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hsodhani&label=Profile%20views&color=0e75b6&style=flat" alt="hsodhani" /> </p>
-
-<h3 align="left">Here are my few pinned repositories:</h3>
-<p align="left">
-</p>
